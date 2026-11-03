@@ -2,6 +2,7 @@
   <img width="2346" height="1336" alt="Visit maywu.net" src="https://github.com/user-attachments/assets/6f0544cd-2301-48c9-ad52-7961d8f59cbc" />
 </a>
 
+![My GitHub contributions](https://ghchart.rshah.org/e879a6/zw757)
 
 <!--
 **zw757/zw757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
